@@ -1,4 +1,4 @@
-## Getting and Cleaning Data Course Project
+#Getting and Cleaning Data Course Project
 ==========================================================================
 ### Description
 Additional information about the variables, data and transformations used in the course project for the Johns Hopkins Getting and Cleaning Data course.
